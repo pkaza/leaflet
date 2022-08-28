@@ -7,3 +7,8 @@ var marker = L.marker([40.613,22.972
 ]).addTo(map)
 		.bindPopup('PAOK<br> Toumba Stadium')
 		.openPopup();	
+
+var marker = L.marker([40.63248341548888, 22.956201317165473
+]).addTo(map)
+		.bindPopup('AUTH')
+		.openPopup();	
